@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Dima Gilensky](https://up.htmlacademy.ru/htmlcss/19/user/490465).
+* Наставник: [Юрий Зайцев] (https://htmlacademy.ru/profile/id89805).
 
 ---
 
